@@ -12,9 +12,9 @@
 На ПК нужно установить Git и после этого
 
 ``
-  git init
-  git config --global user.name 'User Name'
-  git config --global user.email 'example@example.com'
+    git init
+    git config --global user.name 'User Name'
+    git config --global user.email 'example@example.com'
 ``
 ### Установка и запуск
 
